@@ -1,0 +1,31 @@
+[
+    {
+      id: 1,
+      name: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      description: "The original Wolfgang’s Steakhouse opened on NYC’s Park Avenue in 2004, and since then has grown into an internationally renowned institution famous for its USDA Prime 28 days dry-aged steak, with 18 branches worldwide. It's not just the outstanding quality of the meat that makes Wolfgang’s Steakhouse so acclaimed, but the restaurant’s stylish decor and luxurious ambience too. Located inside the InterContinental Hotel on Robertson Quay, Wolfgang’s Steakhouse by Wolfgang Zwiener is the go-to place for steak in Singapore – booking ahead is strongly recommended.",
+      address: "Wolfgang's Steakhouse by Wolfgang Zwiener 1 Nanson Road, #02-01, Intercontinental Robertson Quay Singapore Singapore 238909",
+      phone: "+6531381522",
+      opening_time: "4pm"
+      type: "Steakhouse Restaurants",
+      reviews: "Excellent",
+      reviews_count: "940 reviews"
+    },
+    {
+      id: 1,
+      name: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      description: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      type: "Buffet Restaurants"
+    },
+    {
+      id: 1,
+      name: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      description: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      type: "Italian Restaurants"
+    },
+    {
+      id: 1,
+      name: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      description: "Wolfgang's Steakhouse by Wolfgang Zwiener",
+      type: "Romantic Restaurants"
+    }
+]
