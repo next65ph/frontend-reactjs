@@ -5,63 +5,63 @@
       name: "Wolfgang's Steakhouse by Wolfgang Zwiener",
       description: "The original Wolfgang’s Steakhouse opened on NYC’s Park Avenue in 2004, and since then has grown into an internationally renowned institution famous for its USDA Prime 28 days dry-aged steak, with 18 branches worldwide. It's not just the outstanding quality of the meat that makes Wolfgang’s Steakhouse so acclaimed, but the restaurant’s stylish decor and luxurious ambience too. Located inside the InterContinental Hotel on Robertson Quay, Wolfgang’s Steakhouse by Wolfgang Zwiener is the go-to place for steak in Singapore – booking ahead is strongly recommended.",
       address: "Wolfgang's Steakhouse by Wolfgang Zwiener 1 Nanson Road, #02-01, Intercontinental Robertson Quay Singapore Singapore 238909",
-      image_url: "https://qul.imgix.net/030160f4-7998-4d7f-88e3-ba0e92929220/323538_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/030160f4-7998-4d7f-88e3-ba0e92929220/323538_sld.jpg?auto=format&w=1000",
       phone: "+6512345678",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Steakhouse Restaurants",
       reviews: "Excellent",
-      reviews_count: "940 reviews"
+      reviews_count: "940 reviews",
       menu: [
         {
-          name: "Sizzling Bacon"
-          price "$14.00"
+          name: "Sizzling Bacon",
+          price: "$14.00",
         },
         {
-          name: "Beverly Hills Chopped Salad"
-          price "$22.00"
+          name: "Beverly Hills Chopped Salad",
+          price: "$22.00",
         },
         {
-          name: "Porterhouse Steak for Two/Three/Four"
-          price "$18.00"
+          name: "Porterhouse Steak for Two/Three/Four",
+          price: "$18.00",
         },
         {
-          name: "Ribeye Steak"
-          price "$19.00"
+          name: "Ribeye Steak",
+          price: "$19.00",
         },
         {
-          name: "Colorado Lamb Chops"
-          price "$20.00"
+          name: "Colorado Lamb Chops",
+          price: "$20.00",
         }
       ]
     },
@@ -70,60 +70,60 @@
       name: "Royal Palm - Orchid Country Club",
       description: "A resort-style dining venue in Singapore, Royal Palm at Orchid Country Club gets the art of elegant eating absolutely right. Located on Orchid Club Road in Yishun, you’ll find international cuisines to suit any palate at Royal Palm: local, western-style, Mediterranean, Indian and even seafood, all of which can be enjoyed as a halal lunch or dinner buffet every day. Royal Palm’s delicious food means making a reservation in this northern part of Singapore is absolutely worth it.",
       address: "Royal Palm - Orchid Country Club 1 Orchid Club Road, #01-21/22, Orchid Country Club Singapore 769162",
-      image_url: "https://qul.imgix.net/4cd88168-2cd0-4653-a6f1-24adefbcc896/287237_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/4cd88168-2cd0-4653-a6f1-24adefbcc896/287237_sld.jpg?auto=format&w=1000",
       phone: "+6512345678",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "20:00:00"
+          to: "20:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "20:00:00"
+          to: "20:00:00",
         },
          {
           day: "Wednesday",
           from: "11:30:00",
-          to: "20:00:00"
+          to: "20:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "20:00:00"
+          to: "20:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
       ],
       type: "Buffet Restaurants",
       reviews: "Excellent",
-      reviews_count: "1940 reviews"
+      reviews_count: "1940 reviews",
       menu: [
         {
-          name: "Weekday Buffet Dinner"
-          price "$0.00"
+          name: "Weekday Buffet Dinner",
+          price: "$0.00",
         },
         {
-          name: "Weekend Buffet Lunch"
-          price "$0.00"
+          name: "Weekend Buffet Lunch",
+          price: "$0.00",
         },
         {
-          name: "Weekend Dinner Buffet"
-          price "$0.00"
+          name: "Weekend Dinner Buffet",
+          price: "$0.00",
         },
       ]
     },
@@ -132,67 +132,67 @@
       name: "Seoul Kitchen",
       description: "Seoul Kitchen in Singapore is a charming and casual neighbourhood restaurant that takes great pride in serving up authentic Korean cuisine. Located on Sembawang Road, this Yishun eatery has a menu with something for everyone, from traditional kimchi stews to hot stone bibimbap and seafood stir fries. Yet it’s Seoul Kitchen’s succulent buffets which are the real specialities (both Korean fried chicken and BBQ meats), with many spice mixes and sauces created in-house by the talented kitchen team. There’s over 20 types of chicken dishes to pick from and they all come juicily packed with flavour. Customers can opt for original crispy fried chicken, oven-baked wings in sweet soy sauce, or grilled chicken with spicy sauce (to name just a few). So if you’re craving satisfying food in a laid back setting, you needn’t look further than Seoul Kitchen.",
       address: "Seoul Kitchen 435 Sembawang Road Singapore 758398",
-      image_url: "https://qul.imgix.net/9ec82bfb-f75d-4367-ba95-403bcd4817c9/447562_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/9ec82bfb-f75d-4367-ba95-403bcd4817c9/447562_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Buffet Restaurants",
       reviews: "Excellent",
-      reviews_count: "9240 reviews"
+      reviews_count: "9240 reviews",
       menu: [
         {
-          name: "Mussel Soup"
-          price "$14.00"
+          name: "Mussel Soup",
+          price: "$14.00",
         },
         {
-          name: "Crunch Ganjang Chicken Wing"
-          price "$22.00"
+          name: "Crunch Ganjang Chicken Wing",
+          price: "$22.00",
         },
         {
-          name: "Corn Cheese Fried Chicken"
-          price "$18.00"
+          name: "Corn Cheese Fried Chicken",
+          price: "$18.00",
         },
         {
-          name: "Original Combo Chicken"
-          price "$19.00"
+          name: "Original Combo Chicken",
+          price: "$19.00",
         },
         {
-          name: "Unlimited Korean Fried Chicken"
-          price "$20.00"
+          name: "Unlimited Korean Fried Chicken",
+          price: "$20.00",
         },
         {
-          name: "Unlimited Korean BBQ"
-          price "$30.00"
+          name: "Unlimited Korean BBQ",
+          price: "$30.00",
         }
       ]
     },
@@ -201,68 +201,68 @@
       name: "La Pizzaiola - Teacher's Estate (Kalidasa)",
       description: "Inspired by their experiences in Italy, the folks behind La Pizzaiola on Kalidasa Avenue aim to bring Italian hospitality and traditional cuisine to Singapore’s hungry masses. A friendly restaurant suitable for the entire family, La Pizzaiola at Teacher’s Estate in Upper Thomson is a must-visit for pizza lovers and Italian-food aficionados from across the city. In addition to delicious cuisine, La Pizzaiola offers up incredible hand-selected wines from Italy.",
       address: "La Pizzaiola - Teacher's Estate (Kalidasa) 19 Kalidasa Avenue Singapore 789398",
-      image_url: "https://qul.imgix.net/48628ed8-c092-4194-a91f-335e9e5170d9/101253_landscape.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/48628ed8-c092-4194-a91f-335e9e5170d9/101253_landscape.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
          {
           day: "Wednesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Italian Restaurants",
       reviews: "Excellent",
-      reviews_count: "940 reviews"
+      reviews_count: "940 reviews",
       menu: [
         {
-          name: "Pollo alla Diavola"
-          price "$20.00"
+          name: "Pollo alla Diavola",
+          price: "$20.00",
         },
         {
-          name: "Insalata di Rucola"
-          price "$22.00"
+          name: "Insalata di Rucola",
+          price: "$22.00",
         },
         {
-          name: "Hawaiana Pizza"
-          price "$18.00"
+          name: "Hawaiana Pizza",
+          price: "$18.00",
         },
         {
-          name: "Rucola Parma"
-          price "$19.00"
+          name: "Rucola Parma",
+          price: "$19.00",
         },
         {
-          name: "Risotto ai Porcini e Tartufo"
-          price "$20.00"
+          name: "Risotto ai Porcini e Tartufo",
+          price: "$20.00",
         }
       ]
     },
@@ -271,68 +271,68 @@
       name: "Baci Baci",
       description: "Serving Italian cuisine unlike anything you’ve ever experienced before, Baci Baci is leading the charge in Singapore’s competitive culinary scene. A newly established Italian restaurant with a lot of charm and some of the freshest dishes in the city-state, Baci Baci has earned a name for itself by providing diners with top-quality pasta dishes and mains. You’ll find this fantastic Serangoon restaurant on Lichfield Road, just moments from Serangoon Gardens Country Club.",
       address: "Baci Baci 27 Lichfield Road Singapore 556847",
-      image_url: "https://qul.imgix.net/2bfecdae-f97e-4c90-b85f-89a934b60baf/524842_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/2bfecdae-f97e-4c90-b85f-89a934b60baf/524842_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
          {
           day: "Wednesday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "23:00:00"
+          to: "23:00:00",
         },
       ],
       type: "Italian Restaurants",
       reviews: "Excellent",
-      reviews_count: "940 reviews"
+      reviews_count: "940 reviews",
       menu: [
         {
-          name: "Antipasto"
-          price "$14.00"
+          name: "Antipasto",
+          price: "$14.00",
         },
         {
-          name: "Cacciucco"
-          price "$22.00"
+          name: "Cacciucco",
+          price: "$22.00",
         },
         {
-          name: "Branzino al forno"
-          price "$18.00"
+          name: "Branzino al forno",
+          price: "$18.00",
         },
         {
-          name: "Ribeye tagliata"
-          price "$19.00"
+          name: "Ribeye tagliata",
+          price: "$19.00",
         },
         {
-          name: "Submarine Pizza"
-          price "$20.00"
+          name: "Submarine Pizza",
+          price: "$20.00",
         }
       ]
     },
@@ -341,63 +341,63 @@
       name: "Acqua E Farina",
       description: "As you head northwest up the hill through Bukit Timah, the landscape gets progressively greener. And, though you might think otherwise, the range of restaurant options doesn’t get thinner on the ground. Just before you hit the Rail Mall on Upper Bukit Timah Road is an Italian restaurant that has the rare privilege of being helmed by two chefs, each with a respective northern and southern Italian specialty. It’s thanks to this that Acqua E Farina – water and flour, the basic ingredients – can offer Singapore diners a comprehensive, balanced Italian restaurant experience. Reserve a table today!",
       address: "address",
-      image_url: "https://qul.imgix.net/9dd0093c-e255-442d-9b34-fc3728260a8c/325400_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/9dd0093c-e255-442d-9b34-fc3728260a8c/325400_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Italian Restaurants",
       reviews: "Excellent",
-      reviews_count: "2220 reviews"
+      reviews_count: "2220 reviews",
       menu: [
         {
-          name: "Funghetti Ripieni"
-          price "$24.00"
+          name: "Funghetti Ripieni",
+          price: "$24.00",
         },
         {
-          name: "Sauté di Vongole"
-          price "$21.00"
+          name: "Sauté di Vongole",
+          price: "$21.00",
         },
         {
-          name: "Salsicce di Nostrane al Forno"
-          price "$38.00"
+          name: "Salsicce di Nostrane al Forno",
+          price: "$38.00",
         },
         {
-          name: "Tagliata alla Griglia (min. order 250gr)"
-          price "$29.00"
+          name: "Tagliata alla Griglia (min. order 250gr)",
+          price: "$29.00",
         },
         {
-          name: "Pizza Diavola"
-          price "$25.00"
+          name: "Pizza Diavola",
+          price: "$25.00",
         }
       ]
     },
@@ -406,59 +406,59 @@
       name: "Himawari Japanese Restaurant - Orchid Country Club",
       description: "Breakfast, Brunch, Lunch, Dinner, Larger Groups, Eating Outdoors, Late Night Food, Families with Kids, Drinks",
       address: "Himawari Japanese Restaurant - Orchid Country Club 1 Orchid Club Rd Orchid Country Club Singapore 769162",
-      image_url: "https://qul.imgix.net/435651fa-4ff8-4d00-bf5a-bc181bf043e2/541989_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/435651fa-4ff8-4d00-bf5a-bc181bf043e2/541989_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Buffet Restaurants",
       reviews: "Excellent",
-      reviews_count: "500 reviews"
+      reviews_count: "500 reviews",
       menu: [
         {
-          name: "Appetizers"
-          price "$0.00"
+          name: "Appetizers",
+          price: "$0.00",
         },
         {
-          name: "Grill"
-          price "$0.00"
+          name: "Grill",
+          price: "$0.00",
         },
         {
-          name: "Sushi"
-          price "$0.00"
+          name: "Sushi",
+          price: "$0.00",
         },
         {
-          name: "Noodles"
-          price "$0.00"
+          name: "Noodles",
+          price: "$0.00",
         },
       ]
     },
@@ -467,64 +467,63 @@
       name: "Lawry's The Prime Rib",
       description: "Lawry’s The Prime Rib Singapore was one of the first international Lawry’s locations since this world-famous restaurant first opened in Beverly Hills, LA way back in 1938. Since 2010, the home of Lawry’s The Prime Rib has been inside Mandarin Gallery on Orchard Road, right in the heart of Singapore’s busiest shopping district with four-metre high floor to ceiling windows and so much elegance you can’t help but be impressed. Lawry Singapore’s main attraction is, of course, the USDA prime rib of beef that’s aged for 21 days on a bed of rock salt and then carved at your table from the famous silver cart, but for lunch as well as dinner you’ll find plenty more besides. Reservations are essential at Lawry’s The Prime Rib Singapore, so head to Orchard with one in your pocket.",
       address: "Lawry's The Prime Rib 333A Orchard Road, Mandarin Gallery, #04-01 Singapore 238897",
-      image_url: "https://qul.imgix.net/d30b4c96-ae81-49ea-8b74-2ed4ce7b6f92/509141_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/d30b4c96-ae81-49ea-8b74-2ed4ce7b6f92/509141_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Steakhouse Restaurants",
       reviews: "Excellent",
-      reviews_count: "1940 reviews"
+      reviews_count: "1940 reviews",
       menu: [
         {
-          name: "Truffle Rosemary Crusted Lamb"
-          price "$0.00"
+          name: "Truffle Rosemary Crusted Lamb",
+          price: "$0.00",
         },
         {
-          name: "Seafood Pasta"
-          price "$0.00"
+          name: "Seafood Pasta",
+          price: "$0.00",
         },
         {
-          name: "Lawry’s Mud Pie"
-          price "$0.00"
+          name: "Lawry’s Mud Pie",
+          price: "$0.00",
         },
         {
-          name: "Classic Crêpe Suzette for 2
-"
-          price "$00.00"
+          name: "Classic Crêpe Suzette for 2",
+          price: "$00.00",
         },
         {
-          name: "New York Cheesecake with Strawberry Ice-Cream"
-          price "$0.00"
+          name: "New York Cheesecake with Strawberry Ice-Cream",
+          price: "$0.00",
         }
       ]
     },
@@ -533,63 +532,63 @@
       name: "La Strada",
       description: "La Strada in Singapore, which literally translates to the street, is a charming and laidback Italian restaurant that has recently received a facelift. Serving reimagined, classic Italian dishes in a comfortable yet modern setting, La Strada is a place we think you'll just love. Located at the Shaw Centre Singapore, the perfectly balanced dishes at this iconic Italian restaurant are truly a sensory experience. Complementing the renewed La Strada cuisine is a carefully curated selection of wines, putting the focus on sustainably farmed, organic and biodynamic varietals to complete the picture of dining as it's done in rural Italy. Set close to Orchard station down Scotts Road, alongside La Strada's sibling restaurant Les Amis (the flagship for the Les Amis Group), this is an unmissable destination for fans of authentic Italian dining.",
       address: "La Strada 1 Scotts Road, Shaw Centre, #01-13 Singapore 228208",
-      image_url: "https://qul.imgix.net/f7752a29-b72d-4a82-8f80-80a32cc1c7f3/372309_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/f7752a29-b72d-4a82-8f80-80a32cc1c7f3/372309_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Romantic Restaurants",
       reviews: "Excellent",
-      reviews_count: "940 reviews"
+      reviews_count: "940 reviews",
       menu: [
         {
-          name: "vitello alla milanese"
-          price "$14.00"
+          name: "vitello alla milanese",
+          price: "$14.00",
         },
         {
-          name: "ossobuco"
-          price "$22.00"
+          name: "ossobuco",
+          price: "$22.00",
         },
         {
-          name: "cioppino"
-          price "$18.00"
+          name: "cioppino",
+          price: "$18.00",
         },
         {
-          name: "costata"
-          price "$19.00"
+          name: "costata",
+          price: "$19.00",
         },
         {
-          name: "chitarra alla carbonara"
-          price "$20.00"
+          name: "chitarra alla carbonara",
+          price: "$20.00",
         }
       ]
     },
@@ -598,63 +597,63 @@
       name: "Waterfall Ristorante Italiano",
       description: "Combining fresh oceanic catch, handmade pastas and authentic recipes, Waterfall Ristorante Italiano serves up the finest classics from the southern Italian region – many of which were inspired by heirloom recipes and traditional techniques. Located on the ground floor of the Garden Wing at the Shangri-La Hotel, Singapore, this Italian restaurant on Orange Grove Road also boasts an extensive wine list to complement its definitive food menu, giving you a well-rounded dining experience a mere stone’s throw away from the Orchard Road shopping belt. Booking ahead is highly advised.",
       address: "Waterfall Ristorante Italiano 22 Orange Grove Road, Shangri-La Hotel, Garden Wing, Level 1 Singapore 258350",
-      image_url: "https://qul.imgix.net/35b55b30-89d6-40a5-8a5d-70939b1c211b/532625_sld.jpg?auto=format&w=1000"
+      image_url: "https://qul.imgix.net/35b55b30-89d6-40a5-8a5d-70939b1c211b/532625_sld.jpg?auto=format&w=1000",
       phone: "+6531381522",
       opening_times: [
         {
           day: "Monday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Tuesday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Thursday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Friday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Saturday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
         {
           day: "Sunday",
           from: "11:30:00",
-          to: "22:00:00"
+          to: "22:00:00",
         },
       ],
       type: "Romantic Restaurants",
       reviews: "Excellent",
-      reviews_count: "850 reviews"
+      reviews_count: "850 reviews",
       menu: [
         {
-          name: "ELLUTATA DI ZUCCA NAPOLETANA, FUNGHI E CAPPESANTE"
-          price "$24.00"
+          name: "ELLUTATA DI ZUCCA NAPOLETANA, FUNGHI E CAPPESANTE",
+          price: "$24.00",
         },
         {
-          name: "CREMA DI PISELLI, SCALOGNO, PATATE E FORMAGGIO DI CAPRA"
-          price "$32.00"
+          name: "CREMA DI PISELLI, SCALOGNO, PATATE E FORMAGGIO DI CAPRA",
+          price: "$32.00",
         },
         {
-          name: "PIZZA AI 4 FORMAGGI"
-          price "$28.00"
+          name: "PIZZA AI 4 FORMAGGI",
+          price: "$28.00",
         },
         {
-          name: "PIZZA MARGHERITA"
-          price "$19.00"
+          name: "PIZZA MARGHERITA",
+          price: "$19.00",
         },
         {
-          name: "SPAGHETTI ALLA NAPOLETANA"
-          price "$26.00"
+          name: "SPAGHETTI ALLA NAPOLETANA",
+          price: "$26.00",
         }
       ]
     }
